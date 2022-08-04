@@ -6,7 +6,7 @@ Import these libraries :
 * scikit-learn (for the algorithm application)
 * numpy (for result accuracy calculation)
 
-Install xlrd and pandas
+
 """
 
 from __future__ import print_function
